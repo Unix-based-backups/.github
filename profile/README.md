@@ -1,5 +1,13 @@
 >
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-original.svg" title="Gentoo" alt="Gentoo" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" title="Kali Linux" alt="Kali" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" title="Linux Mint" alt="Mint" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="50" height="50"/>
+</p>
+
  <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" height="3px" />
 </div>
